@@ -2,7 +2,7 @@
 
  LispWorks ASDF Integration
 
- Copyright (c) 2011-2013, Thomas M. Hermann
+ Copyright (c) 2011-2016, Thomas M. Hermann
 
  Permission is hereby granted, free  of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal

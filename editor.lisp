@@ -2,7 +2,7 @@
 
  LispWorks Editor Customizations
 
- Copyright (c) 2010-2013, Thomas M. Hermann
+ Copyright (c) 2010-2016, Thomas M. Hermann
 
  Permission is hereby granted, free  of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
@@ -28,8 +28,10 @@
 
 ;;; Indentation
 
+(editor:setup-indent "defmethod" 2 2 4)
 (editor:setup-indent "if" 1 4 1)
 (editor:setup-indent "with-buffer-locked" 1 2 4)
+
 (editor:setup-indent "defrule" 3 2 4)
 (editor:setup-indent "defrender" 3 2 4)
 
